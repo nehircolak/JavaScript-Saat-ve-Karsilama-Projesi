@@ -1,3 +1,11 @@
+# JavaScript Saat ve Karşılama Projesi 
+
+Kullanıcıdan isim alır ve ekranın ortasında ona hoş geldin der. Ayrıca anlık saat ve gün bilgisi her saniye güncellenir.
+
+Bu proje Patika.dev JavaScript dersi kapsamında hazırlanmıştır.
+
+## Kullandığım bazı kalıpları açıkladım
+
 showTime başlığını ben belirledim ama 
 Date JavaScript’te yerleşik bir sınıftır (class)
 new Date() Şu anki tarihi/saat bilgisiyle bir Date nesnesi oluşturur
