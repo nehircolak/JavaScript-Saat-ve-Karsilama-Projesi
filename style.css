@@ -1,0 +1,45 @@
+body {
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.container {
+  background-color: #1e1e1e;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  max-width: 600px;
+  width: 90%;
+}
+
+h1 {
+  color: #f8f422;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.clock {
+  color: #00ffcc;
+  font-size: 48px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+p {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+/* display: flex
+   justify-content: center
+   align-items: center 
+   Sayfa ortalamak için
+.container	Kart gibi durması için padding + gölge + arka plan
+box-shadow	Hafif 3D efekti veriyor*/
